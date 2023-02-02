@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on special repositor. commands
-- 👯 I’m looking to collaborate on Github
+- 🔭 I’m currently working on Github
+- 👯 I’m looking to collaborate on VSCode
 - 🤔 I’m looking for help with Gitbash
 - 💬 Ask me about any shopping tips
 - 📫 How to reach me - available on MS Teams
